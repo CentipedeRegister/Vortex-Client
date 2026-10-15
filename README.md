@@ -1,5 +1,7 @@
 <h3 align="center">VORTEX CLIENT - STALCRAFT X</h3>
 
+---
+
 <div align="center">
  
 <table style="background-color: #0d1117; border-collapse: collapse; border: 1px solid #30363d; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #c9d1d9; width: auto; margin: 0 auto;">
