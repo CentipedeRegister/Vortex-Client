@@ -1,4 +1,4 @@
-<h3 align="center"># VORTEX CLIENT - STALCRAFT X</h3>
+<h3 align="center">VORTEX CLIENT - STALCRAFT X</h3>
 
 <div align="center">
  
